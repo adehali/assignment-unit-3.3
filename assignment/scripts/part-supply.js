@@ -126,7 +126,7 @@ while (parts >= 7){
   boxesFilled += 1; 
 }
 console.log('Parts filled ' + parts);
-console.log('Boxes filled ' +boxesFilled);
+console.log('Boxes filled ' + boxesFilled);
 
 
 
